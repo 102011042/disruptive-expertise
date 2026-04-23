@@ -1,13 +1,12 @@
 ---
 title: "Wikipedia and the Wisdom of the Crowd"
 layout: scrollstory
-header-image: images/bg_1.jpg
-thumbnail: images/figure_1.jpg
+header-image: images/jimmy-wales-imac.jpg
+thumbnail: images/jimmy-wales-imac.jpg
 summary: When Wikipedia launched in 2001, it didn't just build a new encyclopedia—it challenged the centuries-old assumption that reliable knowledge requires certified experts to produce it.
 header-title: Wikipedia and the Wisdom of the Crowd
-header-subtitle: How a Free Encyclopedia Disrupted Expert Authority
+header-subtitle: How a Free Encyclopedia Disrupted Expertise
 header-position: center
-header-tier: section
 ---
 
 # Wikipedia and the Wisdom of the Crowd
@@ -28,23 +27,24 @@ The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit
 
 But it was also slow, expensive, and inevitably incomplete. A new edition took years to produce. Corrections were nearly impossible once printed. And the identity of "expert" it relied on—credentialed, Western, predominantly male—excluded enormous domains of knowledge.
 
-Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
+  image-path="images/books-britannica.jpeg"
   image-position="right"
   image-width="46%"
   caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
   text=britannica_text
 %}
 
+Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
+
 The question Nupedia's failure raised was not "how do we do expert review faster?" It was more radical: what if expert review is the wrong mechanism entirely?
 
 
-## Anyone Can Edit
-
 {% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
+
+## Anyone Can Edit
 
 Ward Cunningham had invented the "wiki" in 1995—a website that any visitor could edit directly, with changes appearing instantly. The concept was designed for software developers sharing documentation. When Larry Sanger suggested in January 2001 that Nupedia try a wiki as a "feeder" system for rough drafts, Wales agreed. Within days the wiki had more activity than Nupedia had seen in months.
 
@@ -53,12 +53,12 @@ The key insight was almost counterintuitive: the *lack* of a barrier to entry wa
 This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
 
 {% include scrollybox/bg.html
-  image-path="images/bg_1.jpg"
+  image-path="images/market-view.jpg"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
   box-content="
-**The Wiki Model: A Different Theory of Knowledge**
+## The Wiki Model: A Different Theory of Knowledge
 
 Traditional encyclopedias assumed that reliable knowledge flows *downward*: from credentialed experts to the reading public.
 
@@ -89,9 +89,9 @@ These critiques were not wrong, exactly. They were describing real risks. But th
 In December 2005, the science journal *Nature* published a brief but explosive study.
 
 {% include images/jumbotron.html
-  image-path="images/bg_1.jpg"
-  height="45vh"
-  background-position="center 40%"
+  image-path="images/head-to-head.webp"
+  height="85vh"
+  background-position="center top"
   box-align="left"
   text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
 %}
@@ -125,16 +125,17 @@ The *Encyclopaedia Britannica* published its final print edition in 2012 after 2
 
 Wikipedia itself was not static. Its reliability improved substantially over the years as the community developed more sophisticated quality-control mechanisms. Scholars like Joseph Reagle, in *Good Faith Collaboration* (2010), documented how Wikipedia had developed a complex culture of norms, arbitration processes, and editorial standards—different in form from traditional peer review, but not entirely unlike it in function.
 
-The journalist Nicholson Baker, writing in the *New York Review of Books* in 2008, captured something the critics missed: Wikipedia was not finished. It was a living document—not a cathedral built once and maintained, but a garden that grew and changed and healed itself. That was strange and unprecedented. But it was not the same as being worthless.
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/figure_1.jpg"
+  image-path="images/wikipedia-growth.PNG"
   image-position="left"
   image-width="44%"
   caption="Wikipedia's growth from a few dozen articles to more than sixty million across hundreds of languages represents one of the most remarkable feats of collective knowledge production in history."
   text=aftermath_text
 %}
+
+The journalist Nicholson Baker, writing in the *New York Review of Books* in 2008, captured something the critics missed: Wikipedia was not finished. It was a living document—not a cathedral built once and maintained, but a garden that grew and changed and healed itself. That was strange and unprecedented. But it was not the same as being worthless.
 
 Andrew Lih's *The Wikipedia Revolution* (2009) documented how the project had navigated its own contradictions—open yet governed, egalitarian yet hierarchical, unfinished yet increasingly relied upon by millions. The disruption Wikipedia represented was real. But so was its resilience.
 
@@ -144,12 +145,12 @@ Andrew Lih's *The Wikipedia Revolution* (2009) documented how the project had na
 What Wikipedia actually disrupted was not just the encyclopedia business. It disrupted a centuries-old assumption about the relationship between *credentials* and *knowledge*—the idea that reliable information requires not just evidence but a certified expert to vouch for it.
 
 {% include scrollybox/bg.html
-  image-path="images/bg_1.jpg"
+  image-path="images/printing-press.jpg"
   above-box-space="80vh"
   below-box-space="80vh"
   box-align="left"
   box-content="
-**The Credential Problem**
+## The Credential Problem 
 
 Adrian Johns demonstrated in *The Nature of the Book* (1998) that the authority of printed texts was not inherent—it had to be constructed. Early print culture was chaotic, filled with forgeries, unauthorized editions, and unreliable reproductions. Trust in the printed word emerged slowly, through booksellers' reputations, readers' networks, and institutional endorsements.
 

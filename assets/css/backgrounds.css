@@ -39,7 +39,7 @@ BACKGROUNDs
   color: var(--text-body);
 
   /* Visual */
-  background: white;
+  background: var(--bg-page);
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-md);
 }
@@ -169,6 +169,9 @@ SIDE SCROLL
   /* Box Model */
   width: 42%;
   padding-right: 2rem;
+
+  /* Visual */
+  background-color: var(--bg-page);
 }
 
 .ss-image-container {
