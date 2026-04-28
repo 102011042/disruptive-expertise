@@ -1,9 +1,9 @@
 ---
-title: Disruptive Expertise
+title: Why We Need Print!
 layout: base
 header-image: "/assets/images/book-to-network.png"
-header-title: Disruptive Expertise
-header-subtitle: When technology questions authority
+header-title: Disruptive-expertise 
+header-subtitle: When History Is Shaped By The Press
 header-position: 35% center
 ---
 
