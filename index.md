@@ -7,7 +7,7 @@ header-subtitle: When History Is Shaped By The Press
 header-position: 35% center
 ---
 
-## Who's an expert?
+## Who's an expert? And who farted?
 When a new technology changes how information is produced, what happens to authority and expertise?
 
 From the printing press to the telegraph to social media, new information technologies have triggered the same anxious debates: Who gets to be an authority now? Can we trust what we're reading? How do we know what we know?
