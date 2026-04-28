@@ -1,7 +1,7 @@
 ---
 title: Why We Need Print
 layout: base
-header-title: Essays
+header-title: History Is Written by The Press
 ---
 
 # Essays
