@@ -1,5 +1,5 @@
 ---
-title: Essays
+title: Why We Need Print
 layout: base
 header-title: Essays
 ---
