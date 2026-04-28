@@ -7,14 +7,81 @@ header-subtitle: When History Is Shaped By The Press
 header-position: 35% center
 ---
 
-## Who's an expert? And who farted?
-When a new technology changes how information is produced, what happens to authority and expertise?
+## The Printing Press: How Technology Evolved Toward Truth
 
-From the printing press to the telegraph to social media, new information technologies have triggered the same anxious debates: Who gets to be an authority now? Can we trust what we're reading? How do we know what we know?
+The printing press is one of the rare inventions that didn’t just change a tool. Really, it changed the entire shape of human truth. Before it existed, knowledge moved slowly, unevenly, rarely. Often through the hands of people who controlled what could be said. After it arrived, information began to move with a speed and consistency the world had never seen. It destabilized old systems, empowered new voices, and set the stage for every modern communication technology that followed.
 
-These essays, written by students in HIST 300 at the University of New Mexico, explore that recurring disruption. Each one examines a historical moment when a technology upended the authority of expertise — and asks what it might mean for understanding AI today.
+## How It Happened
 
-The writing here was researched and produced with AI assistance, and documents that process honestly. History doesn't give us simple answers about technology. But it helps us ask better questions.
+The printing press emerged in the mid‑1400s, when Johannes Gutenberg combined several existing technologies. There were movable metal types, oil‑based ink, and a modified wine press into a single machine. None of these pieces were new on their own. What was revolutionary was the way he brought them together. For the first time, text could be reproduced quickly, accurately, and in large quantities.
+
+Previously, books were copied by hand, usually by scribes working in monasteries. A single book could take months or years to produce. Errors were common, access was limited, and literacy was mostly reserved for the wealthy or the religious elite. Gutenberg’s machine shattered that bottleneck.
+
+
+## Why We Needed It
+
+Europe in the 1400s was changing. Trade was expanding, cities were growing, and universities were beginning to form. People needed faster ways to share ideas. Scientific, religious, political, and practical. The printing press arrived at the exact moment when society was hungry for a new way to communicate.
+
+It solved several problems at once:
+
+Speed: A press could produce hundreds of pages in the time a scribe produced one.
+
+Accuracy: Movable type reduced copying errors and standardized texts.
+
+Cost: Books became dramatically cheaper, opening literacy to ordinary people.
+
+Reach: Ideas could travel across borders and survive across generations.
+
+It wasn’t just a machine. It was a multiplier of human thought.
+
+## How It Broke Down the Door to Information
+
+Once printing spread, Europe experienced a chain reaction.
+
+The Reformation of Religious texts became accessible to everyday people, challenging the authority of institutions that once controlled interpretation.
+
+In the Scientific Revolution, Scientists could share findings quickly, compare results, and build on each other’s work.
+
+The Enlightenment period saw Philosophers and political thinkers circulate ideas about rights, liberty, and government.
+
+Education and Literacy rates rose, and knowledge became something people could pursue on their own.
+
+The printing press both distributed information and power. It shifted truth from something guarded by a few aristocrats to something debated by the people. 
+
+## Advantages
+
+Democratization of knowledge: Ordinary people gained access to books, ideas, and education. Thus, a very democratic approach to knowledge. 
+
+Standardization: Texts became consistent, reducing errors and preserving knowledge.
+
+Cultural expansion: Literature, art, and philosophy spread across borders. Someone in China could access a manuscript written in France. 
+
+Scientific progress: Shared information accelerated discovery. More scientists held the same information. 
+
+Historical preservation: Ideas could survive beyond the lifetime of their creators.
+
+## Disadvantages
+
+Every technology that spreads truth also has the capabilities to spread distortion, which I'm sure you are well aware.
+
+Propaganda: Printed material could spread misinformation just as easily as facts.
+
+Censorship battles: Governments and institutions tried to control what could be printed.
+
+Cultural conflict: New ideas challenged old systems, sometimes violently.
+
+Overload: As printing expanded, people struggled to sort reliable information from unreliable sources. A problem that echoes today in the technology age.
+
+## Where Has It Gone?
+
+It has morphed to, newspapers, magazines, mass‑market books, radio, television, the internet, social media and even AI‑generated text.
+
+Each of these technologies follows the same pattern.
+There is an increase in the speed of information, an increase in the number of voices, and an increase in the complexity of truth.
+
+Today, we live in a world where information moves instantly. But the core question remains the same as it was in Gutenberg’s time. How do we use technology to move closer to truth, rather than farther from it?
+
+Now, what do you ponder? Can there ever be a pure format of the distributor of knowledge? Will humanity ever reach a “pinnacle” of truth?
 
 
 {% assign all_pages = site.pages %}
