@@ -1,5 +1,5 @@
 ---
-title: Why We Need Print
+title: Why We Need Print!
 layout: base
 header-title: History Is Written by The Press
 ---
