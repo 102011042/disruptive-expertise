@@ -4,7 +4,7 @@ layout: ---
 title: Why We Need Print!
 layout: base
 header-image: "/assets/images/gutenberg-printing-press.jpg"
-header-title: Disruptive-expertise 
+header-title: History Is Written By The Press
 header-subtitle: When History Is Shaped By The Press
 header-position: 35% center
 ---
